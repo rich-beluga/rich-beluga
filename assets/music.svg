@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" version="1.1" id="menu_music" sodipodi:docname="menu_music" inkscape:export-xdpi="96" inkscape:export-ydpi="96" style="fill: none; stroke: none">
+  <defs/>
+  <sodipodi:namedview inkscape:pagecheckerboard="true" borderlayer="true" bordercolor="#666666" pagecolor="#ffffff"/>
+  <g inkscape:groupmode="layer" id="icon" inkscape:label="icon" transform="matrix(2.84444, 0.0, 0.0, 2.84444, 0.0003999999999848569, 0.0003999999999848569)" style="">
+    <g id="Group_1" inkscape:label="Group 1" transform="matrix(1.0, 0.0, 0.0, 1.0, 105.0, 57.5)" style="stroke:rgb(255, 255, 255);stroke-opacity:1.0;stroke-width:10.0;stroke-miterlimit:10.0;stroke-linecap:butt;stroke-linejoin:miter">
+      <path d="M -35,7.5 C -35,7.5 35,-7.5 35,-7.5 &#10;M 35,2.676 C 35,27.924999999999997 35,43.882999999999996 35,50.55 C 35,60.55 26.017,73.633 12.264,73.633 C 1.9959999999999987,73.633 -4.973,67.531 -4.973,57.531 C -4.973,45.399 5.737,39.661 15.223,38.603 C 21.547,37.897 27.798,37.127 33.976,36.29 &#10;M 35,13.066 C 35,13.066 35,-20.13 35,-20.13 C 35,-25.653 30.523,-30.13 25,-30.13 C 24.296,-30.13 23.594,-30.056 22.905,-29.908 C 22.905,-29.908 -23.143,-20.041 -23.143,-20.041 C -30.059,-18.559 -35,-12.447 -35,-5.374 C -35,18.267 -35,41.910000000000004 -35,65.551 C -35,75.551 -43.983,88.633 -57.736,88.633 C -68.00399999999999,88.633 -74.973,82.531 -74.973,72.531 C -74.973,60.39900000000001 -64.263,54.661 -54.777,53.603 C -48.453,52.897 -42.202,52.127 -36.024,51.29 " id="Path_1" inkscape:label="Path 1" style=""/>
+    </g>
+  </g>
+</svg>
