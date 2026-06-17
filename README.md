@@ -16,17 +16,10 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/idea.svg" width="20" height="20" alt="idea" />&nbsp; Idea
-
-Build small, sharp tools that solve a problem I actually have — userbot modules, terminal prompts, mod tweaks — polish them, then share with the people who need the same thing.
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="./assets/branch.svg" width="20" height="20" alt="branch" />&nbsp; Main developer
+### <img src="./assets/branch.svg" width="20" height="20" alt="branch" />&nbsp; Projects
 
 - **Unium** — Rust mod manager (Ferium fork)
-- Paper plugins & Fabric mods
+- **Paper** plugins & **Fabric** mods
 - **MCUB / Hikka** moderation & utility modules
 
 </td>
@@ -59,9 +52,3 @@ Build small, sharp tools that solve a problem I actually have — userbot module
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rich-beluga&show_icons=true&theme=transparent&hide_border=true&title_color=D0BCFF&icon_color=EFB8C8&text_color=CAC4D0&bg_color=00000000" alt="GitHub stats" />
-
-</div>
