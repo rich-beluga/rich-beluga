@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/idea.svg" width="56" height="56" alt="idea" />
+<img src="./assets/emoji.svg" width="56" height="56" alt="emoji" />
 
 # rich_beluga
 
@@ -26,7 +26,7 @@ Build small, sharp tools that solve a problem I actually have — userbot module
 ### <img src="./assets/branch.svg" width="20" height="20" alt="branch" />&nbsp; Main developer
 
 - **Unium** — Rust mod manager (Ferium fork)
-- **TabPrefix / DragonEggGuard** — Paper plugins
+- Paper plugins & Fabric mods
 - **MCUB / Hikka** moderation & utility modules
 
 </td>
